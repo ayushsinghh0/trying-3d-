@@ -1,0 +1,3 @@
+# Vercel deployment ignore file
+# Exclude agent skill files from deployment bundle
+.agent/
